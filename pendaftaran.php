@@ -133,7 +133,6 @@
             <button type="submit">Daftar</button>
         </form>
         <p class="link">Sudah punya akun? <a href="login.php">Login disini</a></p>
-        <p class="link"><a href="lihat.php">Lihat Data User</a></p>
     </div>
 
     <script>
